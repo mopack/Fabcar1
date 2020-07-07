@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: org.example.ClientTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 2.871 sec <<< FAILURE!
-testFabCar(org.example.ClientTest)  Time elapsed: 2.61 sec  <<< ERROR!
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 3.131 sec <<< FAILURE!
+testFabCar(org.example.ClientTest)  Time elapsed: 3.009 sec  <<< ERROR!
 java.io.FileNotFoundException: ../../first-network/connection-org1.yaml (沒有此一檔案或目錄)
 	at java.io.FileInputStream.open0(Native Method)
 	at java.io.FileInputStream.open(FileInputStream.java:195)
